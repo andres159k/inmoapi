@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kyero feed_version="3" powered_by="Witei">
+  <agent>
+    <name>Mi Agencia Inmobiliaria</name>
+    <email>info@miagencia.com</email>
+    <phone>+34 900 000 000</phone>
+    <website>https://www.miagencia.com</website>
+    <logo>https://www.miagencia.com/logo.png</logo>
+  </agent>
+
+  <property>
+    <_webflowId>6848e2122514209df06ea5b5</_webflowId>
+    <id>1234</id>
+    <ref>APT-2024</ref>
+    <date>2025-05-20</date>
+    <currency>EUR</currency>
+    <price>230000</price>
+    <price_freq>sale</price_freq>
+
+    <type>apartment</type>
+    <town>Valencia</town>
+    <province>Valenciaaasd</province>
+    <country>España</country>
+
+    <location>
+      <latitude>39.4699</latitude>
+      <longitude>-0.3763</longitude>
+    </location>
+
+    <beds>2</beds>
+    <baths>1</baths>
+    <pool>no</pool>
+
+    <surface_area>
+      <built>80</built>
+      <plot>0</plot>
+    </surface_area>
+
+    <desc lang="es">Apartamento luminoso con vistas al mar en el centro de Valencia. test01</desc>
+
+    <images>
+      <image>https://humanidades.com/wp-content/uploads/2018/07/propiedad-privada-1-e1572226252649.jpg</image>
+     <image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqK7u_Cd4XfiK0hR3S2ASLBMXYDLn-y00-Guf-ee-jmigp9YDncF4mv41LZe8rn8OiicY&amp;usqp=CAU</image>
+
+    </images>
+
+    <energy_rating>En trámite</energy_rating>
+    <url>https://www.miagencia.com/inmueble/1234</url>
+  </property>
+  <property>
+    <id>12334</id>
+    <ref>APT-2024-2</ref>
+    <date>2025-07-02</date>
+    <currency>EUR</currency>
+    <price>230000</price>
+    <price_freq>sale</price_freq>
+
+    <type>apartment</type>
+    <town>Valencia</town>
+    <province>Valencia</province>
+    <country>España</country>
+
+    <location>
+      <latitude>39.4699</latitude>
+      <longitude>-0.3763</longitude>
+    </location>
+
+    <beds>2</beds>
+    <baths>1</baths>
+    <pool>yes</pool>
+
+    <surface_area>
+      <built>80</built>
+      <plot>0</plot>
+    </surface_area>
+
+    <desc lang="es">Apartamento luminoso con vistas al mar en el centro de Valencia. test02</desc>
+
+    <images>
+      <image>https://humanidades.com/wp-content/uploads/2018/07/propiedad-privada-1-e1572226252649.jpg</image>
+     <image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqK7u_Cd4XfiK0hR3S2ASLBMXYDLn-y00-Guf-ee-jmigp9YDncF4mv41LZe8rn8OiicY&amp;usqp=CAU</image>
+
+    </images>
+
+    <energy_rating>En trámite</energy_rating>
+    <url>https://www.miagencia.com/inmueble/1234</url>
+  </property>
+</kyero>
