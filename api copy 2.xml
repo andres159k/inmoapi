@@ -19,7 +19,7 @@
 
     <type>apartment</type>
     <town>Valencia</town>
-    <province>Valencia</province>
+    <province>Valenciaaasd</province>
     <country>España</country>
 
     <location>
@@ -29,7 +29,7 @@
 
     <beds>2</beds>
     <baths>1</baths>
-    <pool>yes</pool>
+    <pool>no</pool>
 
     <surface_area>
       <built>80</built>
