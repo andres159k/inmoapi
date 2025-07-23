@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kyero feed_version="3" powered_by="Demo">
+  <property>
+    <id>7</id>
+    <ref>1026</ref>
+    <date>06/12/2016</date>
+
+    <currency>EUR</currency>
+    <price>0,00</price>
+    <price_freq>sale</price_freq>
+
+    <type>Casa Chalet</type>
+    <town>Andorra la Vella</town>
+    <province/>
+    <country>Andorra</country>
+
+    <location>
+      <latitude/>
+      <longitude/>
+    </location>
+
+    <beds>6</beds>
+    <baths>8</baths>
+
+    <surface_area>
+      <built>1100,00</built>
+      <plot/>
+    </surface_area>
+
+    <desc lang="es">
+      Distingit xalet en venda a la zona residencial …
+    </desc>
+
+    <features>
+      <feature>ascensor</feature>
+      <feature>garaje</feature>
+      <feature>trastero</feature>
+      <feature>terraza</feature>
+      <feature>jardin</feature>
+    </features>
+
+    <energy_rating>
+      <consumption/>
+      <emissions/>
+    </energy_rating>
+
+    <image-1/>
+    <image-2/>
+
+    <location_detail/>
+    <district/>
+    <zone/>
+    <floor/>
+    <postalcode/>
+    <title/>
+    <type_es/>
+    <videos/>
+    <titles/>
+
+    <!-- switches -->
+    <has_elevator>true</has_elevator>
+    <has_garage>true</has_garage>
+    <has_storage>true</has_storage>
+    <has_terrace>true</has_terrace>
+    <has_garden>true</has_garden>
+
+    <!-- option fields -->
+    <location>Andorra la Vella</location>
+    <operation_type>Venta</operation_type>
+
+    <url/>
+    <show_price>true</show_price>
+  </property>
+
+  <property>
+    <id>10</id>
+    <ref>1030</ref>
+    <date>19/12/2016</date>
+    <currency>EUR</currency>
+    <price>1065380,00</price>
+    <price_freq>sale</price_freq>
+    <type>Casa Chalet</type>
+    <town>Andorra la Vella</town>
+    <beds>5</beds>
+    <baths>6</baths>
+    <surface_area><built>950,00</built></surface_area>
+    <desc lang="es">Espectacular xalet amb vistes panoràmiques …</desc>
+    <features>
+      <feature>ascensor</feature><feature>garaje</feature>
+      <feature>trastero</feature><feature>terraza</feature>
+      <feature>jardin</feature>
+    </features>
+    <has_elevator>true</has_elevator><has_garage>true</has_garage>
+    <has_storage>true</has_storage><has_terrace>true</has_terrace>
+    <has_garden>true</has_garden>
+    <location>Andorra la Vella</location><operation_type>Venta</operation_type>
+  </property>
+
+  <property>
+    <id>11</id>
+    <ref>1031</ref>
+    <date>21/12/2016</date>
+    <currency>EUR</currency>
+    <price>1350000,00</price>
+    <price_freq>sale</price_freq>
+    <type>Pis (ático)</type>
+    <town>Andorra la Vella</town>
+    <beds>4</beds>
+    <baths>2</baths>
+    <surface_area><built>180,00</built></surface_area>
+    <desc lang="es">Àtic dúplex de luxe al centre d’Andorra …</desc>
+    <features><feature>ascensor</feature><feature>garaje</feature>
+      <feature>trastero</feature><feature>terraza</feature>
+    </features>
+    <has_elevator>true</has_elevator><has_garage>true</has_garage>
+    <has_storage>true</has_storage><has_terrace>true</has_terrace>
+    <has_garden>false</has_garden>
+    <location>Andorra la Vella</location><operation_type>Venta</operation_type>
+  </property>
+
+  <property>
+    <id>52</id>
+    <ref>1103</ref>
+    <date>15/01/2017</date>
+    <currency>EUR</currency>
+    <price>425000,00</price>
+    <price_freq>sale</price_freq>
+    <type>Pis</type>
+    <town>Andorra la Vella</town>
+    <beds>3</beds>
+    <baths>2</baths>
+    <surface_area><built>120,00</built></surface_area>
+    <desc lang="es">Acollidor pis reformat amb acabats d’alta qualitat …</desc>
+    <features><feature>ascensor</feature><feature>garaje</feature></features>
+    <has_elevator>true</has_elevator><has_garage>true</has_garage>
+    <has_storage>false</has_storage><has_terrace>true</has_terrace>
+    <has_garden>false</has_garden>
+    <location>Andorra la Vella</location><operation_type>Venta</operation_type>
+  </property>
+
+  <property>
+    <id>75</id>
+    <ref>1125</ref>
+    <date>03/02/2017</date>
+    <currency>EUR</currency>
+    <price>360000,00</price>
+    <price_freq>sale</price_freq>
+    <type>Pis</type>
+    <town>Andorra la Vella</town>
+    <beds>2</beds>
+    <baths>1</baths>
+    <surface_area><built>67,00</built></surface_area>
+    <desc lang="es">Pis de compra al centre d’Andorra. Exclusiu …</desc>
+    <features><feature>ascensor</feature><feature>garaje</feature></features>
+    <has_elevator>true</has_elevator><has_garage>true</has_garage>
+    <has_storage>false</has_storage><has_terrace>false</has_terrace>
+    <has_garden>false</has_garden>
+    <location>Andorra la Vella</location><operation_type>Venta</operation_type>
+  </property>
+</kyero>
