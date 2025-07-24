@@ -1,0 +1,218 @@
+<feed xmlns="http://www.kyero.com/xmlfeed/v1" version="3" target="kyero">
+<agent>
+<agent_id>ANDIMMO</agent_id>
+<agent_name>ANDIMMO</agent_name>
+<agent_url>https://www.andimmo.com</agent_url>
+</agent>
+<property>
+<id>1074</id>
+<ref>2037</ref>
+<date>2024-03-07</date>
+<price>
+<price_value>1250000</price_value>
+<price_freq>sale</price_freq>
+<currency>EUR</currency>
+</price>
+<type>piso</type>
+<location>
+<town>Escaldes-Engordany</town>
+<province>Escaldes - Engordany</province>
+<country>ES</country>
+<address>Els Vilars</address>
+</location>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<details>
+<description>
+Magnífic Àtic d´obra nova a Els Vilars En una de les millors zones d'Escaldes-Engordany, trobem aquesta promoció a 5 minuts de Caldea ia 10 minuts del Centre Comercial Illa Carlemany. La propietat compta amb 157,01 m2 habitables, una terrassa coberta de 11,70 m2 + 17,69 m2 de terrassa descoberta i un balcó de 7,57 m2. Compte amb un saló-menjador-cuina de 57,64 m2, 3 habitacions dobles amb armaris encastats, 2 d'elles en suite, disposa també d'un altre bany complet amb dutxa i un safareig. Si voleu més informació, no dubteu a posar-vos en contacte amb nosaltres. Plaça de garatge: 30.000€ Trasters: 6.000€
+</description>
+</details>
+</property>
+<property>
+<id>1087</id>
+<ref>2044</ref>
+<date>2024-03-22</date>
+<price>
+<price_value>350</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>oficina/despacho</type>
+<location>
+<town>Andorra la Vella</town>
+<province>Andorra la Vella</province>
+<country>ES</country>
+<address>Calle Prat de la Creu</address>
+</location>
+<bathrooms>1</bathrooms>
+<details>
+<description>
+Despatx per llogar, situat a Andorra la Vella, d'una superfície de 8 m2. Amb una ubicació cèntrica, a prop de comerços, d’entitats bancàries, d’organismes i també de la terminal d’autobusos, aquesta oficina resulta molt pràctica per a una petita empresa. Es tracta d’un despatx privat amb finestra que dona a un pati interior. Té wifi i accés a bany compartit. Disponible a partir de mitjans de maig.
+</description>
+</details>
+</property>
+<property>
+<id>1091</id>
+<ref>2048</ref>
+<date>2024-04-12</date>
+<price>
+<price_value>626</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>oficina/despacho</type>
+<location>
+<town>Andorra la Vella</town>
+<province>Andorra la Vella</province>
+<country>ES</country>
+<address>Calle Prat de la Creu</address>
+</location>
+<bathrooms>1</bathrooms>
+<details>
+<description>
+Despatx per llogar, situat a Andorra la Vella, d'una superfície de 20 m2. Amb una ubicació cèntrica, a prop de comerços, d’entitats bancàries, d’organismes i també de la terminal d’autobusos, aquesta oficina resulta molt pràctica per a una petita empresa. Es tracta d’un despatx privat amb finestra que dona a un pati interior. Té wifi i accés a bany compartit. Preu (per a 24 mesos)
+</description>
+</details>
+</property>
+<property>
+<id>1092</id>
+<ref>2044</ref>
+<date>2024-04-12</date>
+<price>
+<price_value>235</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>oficina/despacho</type>
+<location>
+<town>Andorra la Vella</town>
+<province>Andorra la Vella</province>
+<country>ES</country>
+<address>Calle Prat de la Creu</address>
+</location>
+<bathrooms>1</bathrooms>
+<details>
+<description>
+Escritorio per llogar a un Co-Working, situat a Andorra la Vella. Amb una ubicació cèntrica, a prop de comerços, d’entitats bancàries, d’organismes i també de la terminal d’autobusos. Té wifi i accés a bany compartit. Escriptori Gran: 235 € Escriptori Mitja: 235 € Escriptori Petit: 150 € Preu (per a 24 mesos)
+</description>
+</details>
+</property>
+<property>
+<id>1096</id>
+<ref>2049</ref>
+<date>2024-04-25</date>
+<price>
+<price_value>425</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>oficina/despacho</type>
+<location>
+<town>Andorra la Vella</town>
+<province>Andorra la Vella</province>
+<country>ES</country>
+<address>Calle Prat de la Creu</address>
+</location>
+<bathrooms>1</bathrooms>
+<details>
+<description>
+Despatx gran per llogar, situat a Andorra la Vella, amb una ubicació cèntrica, a prop de comerços, d’entitats bancàries, d’organismes i també de la terminal d’autobusos, aquesta oficina resulta molt pràctica per a una petita empresa. Es tracta d’un despatx privat amb finestra que dona a un pati interior. Té wifi i accés a bany compartit. Preu (per a 24 mesos)
+</description>
+</details>
+</property>
+<property>
+<id>1127</id>
+<ref>2087</ref>
+<date>2024-09-11</date>
+<price>
+<price_value>1100</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>piso</type>
+<location>
+<town>Incles</town>
+<province>Canillo</province>
+<country>ES</country>
+<address>
+Cami del pont d'incles, Edifici Vilaneu 1 apartamento 106
+</address>
+</location>
+<bedrooms>0</bedrooms>
+<bathrooms>1</bathrooms>
+<details>
+<description>
+Preciós estudi de lloguer a la Vall d'Incles Una ubicació privilegiada a només 2 minuts amb cotxe dels telecabines de Soldeu i El Tarter (Grandvalira), ideal per als amants de l'esquí i la natura. Aquest acollidor estudi ofereix vistes excepcionals i sol durant gairebé tot el dia, creant un ambient càlid i lluminós. Totalment moblat i equipat, compta amb tot el necessari per a una estada còmoda i relaxant. A més, disposa de plaça de pàrquing inclosa, cosa que afegeix una comoditat extra. És el lloc perfecte tant per als que gaudeixen de l'esquí a l'hivern com pels apassionats del senderisme i la natura durant tot l'any. Una oportunitat única per viure envoltat de pau i natura, amb totes les comoditats al teu abast!
+</description>
+</details>
+</property>
+<property>
+<id>1130</id>
+<ref>2090</ref>
+<date>2024-09-25</date>
+<price>
+<price_value>2000</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>piso</type>
+<location>
+<town>Encamp</town>
+<province>Encamp</province>
+<country>ES</country>
+<address>Dels Cortals</address>
+</location>
+<bedrooms>3</bedrooms>
+<details>
+<description>Apartament de 3 hab. a LA SOLANA APARTAMENTS & SPA</description>
+</details>
+</property>
+<property>
+<id>1136</id>
+<ref>2090</ref>
+<date>2024-11-05</date>
+<price>
+<price_value>6000</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>piso</type>
+<location>
+<town>Soldeu</town>
+<province>Canillo</province>
+<country>ES</country>
+<address>Borda Popaire</address>
+</location>
+<bedrooms>4</bedrooms>
+<bathrooms>4</bathrooms>
+<details>
+<description>
+Exclusiu i elegant Àtic a Soldeu Gaudiu de la inspiració escandinava a l'àtic més gran del centre del poble. L´ascensor el porta directament a l´àtic recentment renovat d´un xalet de cinc plantes. Gaudiu de les vistes cap a El Tarter i Incles o sortiu al balcó i sentiu-vos com si fos part de la muntanya amb vistes a les pistes d'esquí. Complet amb impressionants vistes a la muntanya, una estufa de llenya, estacionament subterrani, un llit per a gossos Fatboy, una sala d´estar amb cuina oberta molt espaiosa i un balcó gran amb sol tot el dia. Compte amb 3 habitacions dobles, 1 habitació amb lliteres dissenyada especialment per als nens i 4 banys complets. Aquest àtic preciós es lloga completament amoblat i equipat. Es complementa amb una plaça de pàrquing i un traster. Disponibilitat: Lloguer per la temporada d’estiu, com a màxim fins al desembre.
+</description>
+</details>
+</property>
+<property>
+<id>1141</id>
+<ref>2097</ref>
+<date>2024-12-04</date>
+<price>
+<price_value>6000</price_value>
+<price_freq>month</price_freq>
+<currency>EUR</currency>
+</price>
+<type>piso</type>
+<location>
+<town>Soldeu</town>
+<province>Canillo</province>
+<country>ES</country>
+<address>Borda Popaire</address>
+</location>
+<bedrooms>3</bedrooms>
+<bathrooms>3</bathrooms>
+<details>
+<description>
+Espectacular Pis de 140 m2 a Soldeu Davant de les pistes d´esquí ia pocs metres del telecabina, trobem aquest preciós apartament amb un disseny i un estil únic. Disposa de 3 habitacions dobles, una en suite, des d´una de les habitacions podem accedir a la terrassa on podrem gaudir del sol tot el dia, d´unes vistes immillorables a la muntanya ia les pistes d´esquí de Grandvalira. El saló menjador amb cuina oberta és magnífic, no només per la seva amplitud, sinó també per les precioses vistes i la gran xemeneia per gaudir en família o amb amics. També compta amb eixida a la terrassa de 12,68 m2 i dos de 1,75 on podem gaudir del sol tot el dia. Es lloga completament moblat i equipat. Compte amb 1 plaça de pàrquing i 1 traster
+</description>
+</details>
+</property>
+</feed>
