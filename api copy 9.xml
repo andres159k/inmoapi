@@ -1,0 +1,406 @@
+<root>
+<kyero>
+<feed_version>3</feed_version>
+</kyero>
+<property>
+<id>892</id>
+<ref>1865</ref>
+<date>2025-07-24 08:03:13</date>
+<price>316000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type>Flat</type>
+<town>ANDORRA</town>
+<province>Canillo</province>
+<country>Andorra</country>
+<location>
+<latitude>42.581753545</latitude>
+<longitude>1.663356817</longitude>
+</location>
+<location_detail>Borda Popaire, AD100</location_detail>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>137</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<desc>...</desc>
+<features>
+<feature>Amoblado</feature>
+<feature>ascensor</feature>
+<feature>edificio con garaje</feature>
+<feature>terraza</feature>
+<feature>trastero</feature>
+</features>
+<images>
+<image id="1">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881af71bff7f791dcf2e618_892-2-841x533.jpg
+</url>
+</image>
+<image id="2">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881af7ac3dfb0858d8128ad_892-3-841x533.jpg
+</url>
+</image>
+<image id="3">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881af7d0cf17d88d86d2d2c_892-7-841x533.jpg
+</url>
+</image>
+</images>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<district/>
+<zone>ANDORRA</zone>
+<wi_data>
+<videos/>
+<type_es>Piso</type_es>
+<show_price>1</show_price>
+<postalcode>AD100</postalcode>
+<district/>
+<zone>ANDORRA</zone>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<titles/>
+<floor>1</floor>
+</wi_data>
+</property>
+<property>
+<id>1052</id>
+<ref>2022</ref>
+<date>2025-07-24 08:03:13</date>
+<price>695000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type>Flat</type>
+<town>ANDORRA</town>
+<province>Canillo</province>
+<country>Andorra</country>
+<location>
+<latitude>42.581753545</latitude>
+<longitude>1.663356817</longitude>
+</location>
+<location_detail>Borda Popaire, AD100</location_detail>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>137</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<desc>...</desc>
+<features>
+<feature>Amoblado</feature>
+<feature>ascensor</feature>
+<feature>edificio con garaje</feature>
+<feature>terraza</feature>
+<feature>trastero</feature>
+</features>
+<images>
+<image id="1">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881acb7193c4c0571855f07_1052-1-841x533.jpg
+</url>
+</image>
+<image id="2">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881acbf5d9f9294a94528d2_1052-2-841x533.jpg
+</url>
+</image>
+<image id="3">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881acc6d04c31855c9ea6f3_1052-5-841x533.jpg
+</url>
+</image>
+</images>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<district/>
+<zone>ANDORRA</zone>
+<wi_data>
+<videos/>
+<type_es>Piso</type_es>
+<show_price>1</show_price>
+<postalcode>AD100</postalcode>
+<district/>
+<zone>ANDORRA</zone>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<titles/>
+<floor>1</floor>
+</wi_data>
+</property>
+<property>
+<id>1087</id>
+<ref>2044</ref>
+<date>2025-07-24 08:03:13</date>
+<price>350</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<type>Flat</type>
+<town>ANDORRA</town>
+<province>Canillo</province>
+<country>Andorra</country>
+<location>
+<latitude>42.581753545</latitude>
+<longitude>1.663356817</longitude>
+</location>
+<location_detail>Borda Popaire, AD100</location_detail>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>137</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<desc>...</desc>
+<features>
+<feature>Amoblado</feature>
+<feature>ascensor</feature>
+<feature>edificio con garaje</feature>
+<feature>terraza</feature>
+<feature>trastero</feature>
+</features>
+<images>
+<image id="1">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a82b35693327d5fb947d_1092-6-841x533%20(1).jpg
+</url>
+</image>
+<image id="2">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a82b35693327d5fb947d_1092-6-841x533%20(1).jpg
+</url>
+</image>
+<image id="3">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a825e0ecad9671f213d4_1092-5-841x533.jpg
+</url>
+</image>
+</images>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<district/>
+<zone>ANDORRA</zone>
+<wi_data>
+<videos/>
+<type_es>Piso</type_es>
+<show_price>1</show_price>
+<postalcode>AD100</postalcode>
+<district/>
+<zone>ANDORRA</zone>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<titles/>
+<floor>1</floor>
+</wi_data>
+</property>
+<property>
+<id>1091</id>
+<ref>2048</ref>
+<date>2025-07-24 08:03:13</date>
+<price>626</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<type>Flat</type>
+<town>ANDORRA</town>
+<province>Canillo</province>
+<country>Andorra</country>
+<location>
+<latitude>42.581753545</latitude>
+<longitude>1.663356817</longitude>
+</location>
+<location_detail>Borda Popaire, AD100</location_detail>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>137</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<desc>...</desc>
+<features>
+<feature>Amoblado</feature>
+<feature>ascensor</feature>
+<feature>edificio con garaje</feature>
+<feature>terraza</feature>
+<feature>trastero</feature>
+</features>
+<images>
+<image id="1">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a51eb726c3bded72fe38_1091-4-841x533%20(1).jpg
+</url>
+</image>
+<image id="2">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a51eb726c3bded72fe38_1091-4-841x533%20(1).jpg
+</url>
+</image>
+<image id="3">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a51eb726c3bded72fe38_1091-4-841x533%20(1).jpg
+</url>
+</image>
+</images>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<district/>
+<zone>ANDORRA</zone>
+<wi_data>
+<videos/>
+<type_es>Piso</type_es>
+<show_price>1</show_price>
+<postalcode>AD100</postalcode>
+<district/>
+<zone>ANDORRA</zone>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<titles/>
+<floor>1</floor>
+</wi_data>
+</property>
+<property>
+<id>1130</id>
+<ref>2090</ref>
+<date>2025-07-24 08:03:13</date>
+<price>2000</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<type>Flat</type>
+<town>ANDORRA</town>
+<province>Canillo</province>
+<country>Andorra</country>
+<location>
+<latitude>42.581753545</latitude>
+<longitude>1.663356817</longitude>
+</location>
+<location_detail>Borda Popaire, AD100</location_detail>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>137</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<desc>...</desc>
+<features>
+<feature>Amoblado</feature>
+<feature>ascensor</feature>
+<feature>edificio con garaje</feature>
+<feature>terraza</feature>
+<feature>trastero</feature>
+</features>
+<images>
+<image id="1">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a901328332feb152af74_1136-13-841x533.jpg
+</url>
+</image>
+<image id="2">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a8fac3dfb0858d7fa05a_1136-10-841x533.jpg
+</url>
+</image>
+<image id="3">
+<url>
+https://cdn.prod.website-files.com/686dcc35c47cb989920b9522/6881a8fe5608232816d02c4a_1136-1-841x533.jpg
+</url>
+</image>
+</images>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<district/>
+<zone>ANDORRA</zone>
+<wi_data>
+<videos/>
+<type_es>Piso</type_es>
+<show_price>1</show_price>
+<postalcode>AD100</postalcode>
+<district/>
+<zone>ANDORRA</zone>
+<title>Piso en alquiler en ANDORRA de 137 m2</title>
+<titles/>
+<floor>1</floor>
+</wi_data>
+</property>
+<property>
+<id>999999</id>
+<ref>TEST-FEATURES</ref>
+<date>2025-07-24 08:03:13</date>
+<price>999999</price>
+<currency>EUR</currency>
+<price_freq>month</price_freq>
+<type>Flat</type>
+<town>ANDORRA</town>
+<province>Canillo</province>
+<country>Andorra</country>
+<location>
+<latitude>42.581753545</latitude>
+<longitude>1.663356817</longitude>
+</location>
+<location_detail>Borda Popaire, AD100</location_detail>
+<beds>3</beds>
+<baths>3</baths>
+<surface_area>
+<built>140</built>
+</surface_area>
+<energy_rating>
+<consumption>X</consumption>
+<emissions>X</emissions>
+</energy_rating>
+<desc>Propiedad de prueba con todos los features.</desc>
+<features>
+<feature>suite</feature>
+<feature>terraza</feature>
+<feature>aire acondicionado</feature>
+<feature>vistas</feature>
+<feature>edificable</feature>
+<feature>trastero</feature>
+<feature>ascensor</feature>
+<feature>parking cerrado</feature>
+<feature>calefacción</feature>
+<feature>urbanizado</feature>
+<feature>piscina</feature>
+<feature>primera línea</feature>
+<feature>escaparate</feature>
+<feature>rejas</feature>
+<feature>oficina equipada</feature>
+<feature>puente grúa</feature>
+<feature>subterráneo</feature>
+<feature>cerrado</feature>
+<feature>planta baja</feature>
+<feature>amueblado</feature>
+<feature>sistema de seguridad</feature>
+<feature>salida de humos</feature>
+<feature>oficina</feature>
+<feature>altillo</feature>
+<feature>pozo</feature>
+<feature>electricidad</feature>
+<feature>nuevo</feature>
+<feature>parking</feature>
+</features>
+<images>
+<image id="1">
+<url>https://cdn.test/images/test-feature.jpg</url>
+</image>
+</images>
+<title>Propiedad de prueba con todos los features</title>
+<district/>
+<zone>ANDORRA</zone>
+<wi_data>
+<videos/>
+<type_es>Piso</type_es>
+<show_price>1</show_price>
+<postalcode>AD100</postalcode>
+<district/>
+<zone>ANDORRA</zone>
+<title>Propiedad de prueba con todos los features</title>
+<titles/>
+<floor>1</floor>
+</wi_data>
+</property>
+</root>
